@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:2020/","buildOrder":7,"buildName":"ui_spectrum #7","buildUrl":"http://localhost:2020/job/ui_spectrum/7/","reportName":"AllureReport","reportUrl":"http://localhost:2020/job/ui_spectrum/7/allure"}]

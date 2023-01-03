@@ -34,6 +34,8 @@ def test_tc001_get() :
     time.sleep(2)
     driver.find_element_by_xpath(logout).click()
 
+    driver.quit()
+
 # # chrome_driver = 'C:\\Users\\Ferdous Ahmed\\Desktop\\ui_spectrum\\chromedriver_win32 (2)\\chromedriver.exe'
 # chrome_driver = r'C:\Users\Ferdous Ahmed\Desktop\ui_spectrum\chromedriver_win32 (2)\chromedriver.exe'
 # # chrome_driver = 'C:/Users/Ferdous Ahmed/Desktop/ui_spectrum/chromedriver_win32 (2)/chromedriver.exe'
